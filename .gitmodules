@@ -1,0 +1,9 @@
+[submodule "SourceCode"]
+	path = SourceCode
+	url = https://github.com/Merlicne/SoftEngSourceCode
+[submodule "Documents"]
+	path = Documents
+	url = https://github.com/Merlicne/SoftEngDocs
+[submodule "Tests"]
+	path = Tests
+	url = https://github.com/Merlicne/SoftEngTest
